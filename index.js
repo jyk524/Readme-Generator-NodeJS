@@ -16,50 +16,49 @@ const questions = [
   },
   {
     type: "input",
-    message: "What is your description?",
+    message: "Please describe your idea",
     name: "description",
   },
   {
     type: "input",
-    message: "Please describe how to install this?",
+    message: "Please describe how to install this",
     name: "installation",
   },
   {
     type: "input",
-    message: "Please describe how to run this?",
+    message: "Please describe how would like this to be used",
     name: "usage",
   },
   {
-    type: "checkbox",
+    type: "list",
     message: "What type of license?",
-    choices: [
-      "MIT",
-      "creative commons",
-      "GNU Public License",
-      "Apache",
-      "None",
-    ],
+    choices: ["MIT", "ISC", "Zlib", "Apache", "None"],
     name: "license",
   },
   {
     type: "input",
     message: "How can others contribute?",
-    name: "contribution",
+    name: "contribute",
   },
   {
     type: "input",
-    message: "How do I test this??",
-    name: "testing",
+    message: "How would you like to test this?",
+    name: "test",
   },
   {
     type: "input",
-    message: "What is my Github profile?",
+    message: "What is your Github profile?",
     name: "github",
   },
   {
     type: "input",
     message: "What is my email address?",
     name: "email",
+  },
+  {
+    type: "input",
+    message: "Do you have any furthur questions",
+    name: "questions",
   },
 ];
 
