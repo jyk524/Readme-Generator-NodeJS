@@ -1,4 +1,4 @@
-# hi
+# ReadMe Generator
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,19 +13,19 @@
   8. [Links and Email](#linksandemail)
   
   ### Description
-  * team
+  ReadMe Generator based in NodeJS
   ### Installation
-  * great
+  npm install, node index
   ### Usage
-  * work
+  To create ReadMes easily through Node CLI
   ### License
   * MIT
   ### Contribute
-  * ^ thats
+  
   ### Test
-  * where
+  
   ### Questions
-  * too
+  
   ### Links and Email
-  * (https://github.com/we)
-  * are
+  github.com/jyk524
+  
