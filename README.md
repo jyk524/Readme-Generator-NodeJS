@@ -1,4 +1,4 @@
-# ReadMe Generator
+# Amazon Challenge
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,19 +13,19 @@
   8. [Links and Email](#linksandemail)
   
   ### Description
-  ReadMe Generator based in NodeJS
+  * A clone of the e-commerce site Amazon.com
   ### Installation
-  npm install, node index
+  * npm i, npm start
   ### Usage
-  To create ReadMes easily through Node CLI
+  * As a template for other e commerce sites
   ### License
   * MIT
   ### Contribute
-  
+  * 
   ### Test
-  
+  * real world testing
   ### Questions
-  
+  * no
   ### Links and Email
-  github.com/jyk524
-  
+  * (https://github.com/jyk524)
+  * jyk524@gmail.com
