@@ -25,7 +25,7 @@
   ### Test
   * real world testing
   ### Questions
-  * no
+  * self updating banners and products (based on vendors)
   ### Links and Email
   * (https://github.com/jyk524)
   * jyk524@gmail.com
