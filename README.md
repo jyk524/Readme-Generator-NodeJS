@@ -1,4 +1,4 @@
-# Amazon Challenge
+# Lab
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,19 +13,19 @@
   8. [Links and Email](#linksandemail)
   
   ### Description
-  * A clone of the e-commerce site Amazon.com
+  * A website for the LAB
   ### Installation
-  * npm i, npm start
+  * npm install, npm start
   ### Usage
-  * As a template for other e commerce sites
+  * to share information about the LAB
   ### License
   * MIT
   ### Contribute
-  * 
+  * Justin, Ji Yoon, Kisha, Kevin
   ### Test
   * real world testing
   ### Questions
-  * self updating banners and products (based on vendors)
+  * no
   ### Links and Email
-  * (https://github.com/jyk524)
+  * (https://github.com/github.com/jyk524)
   * jyk524@gmail.com
